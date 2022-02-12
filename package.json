@@ -1,0 +1,19 @@
+{
+  "name": "create-tracking-fe",
+  "version": "1.0.0",
+  "description": "the starter for tracking-FE",
+  "main": "bin/cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "bin": "bin/cli.js",
+  "engines": {
+    "node": ">=12"
+  },
+  "dependencies": {
+    "inquirer": "^8.2.0",
+    "listr": "^0.14.3"
+  }
+}
